@@ -17,7 +17,7 @@ This Portfolio is a compilation of my most relevant Data Science and Data Analys
     This project analyzed adolescent substance use patterns using SNA to examine peer clustering, social connectedness, and gender differences.
     ERGMs and network centrality measures were applied in R to study how friendship networks relate to health-risk behaviors.
 
-* [Add Health Data Analysis Dashboard](https://github.com/madisonhess/personalportfolio/tree/main/Projects/FINAL.html):
+* [Add Health Data Analysis Dashboard](https://madisonhess.github.io/dacss604_dashboard/):
 
   This project examined how maternal attachment, peer exposure, and boredom relate to chronic juvenile offending using data from the National Longitudinal Study of Adolescent to Adult Health (Add Health).
   An interactive R Flexdashboard was built in R with predicted probability plots and correlation heatmaps to communicate findings.
