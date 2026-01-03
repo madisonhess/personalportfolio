@@ -10,6 +10,16 @@ This Portfolio is a compilation of my most relevant Data Science and Data Analys
 * President's Scholarship Recipient at the University of Portland
 * Awarded President's Medal at Penisula College for completing my Associate of Arts degree with a cumulative grade point average above 3.85
 
+## Activities & Societies
+
+* Tennis Club (University of Portland)
+* Intramural Tennis (University of Portland)
+* Math Club (University of Portland)
+
+* Phi Theta Kappa Honor Society Member
+* Alpha Lambda Delta Honor Society Member
+* Alpha Kappa Delta Sociological Honor Society Member
+
 ## Projects
 
 * [Social Network Patterns in Adolescent Substance Use](https://github.com/madisonhess/personalportfolio/tree/main/Projects/FINAL_DACSS695N.pdf):
@@ -21,6 +31,10 @@ This Portfolio is a compilation of my most relevant Data Science and Data Analys
 
   This project examined how maternal attachment, peer exposure, and boredom relate to chronic juvenile offending using data from the National Longitudinal Study of Adolescent to Adult Health (Add Health).
   An interactive R Flexdashboard was built in R with predicted probability plots and correlation heatmaps to communicate findings.
+
+* [Gender and Politicians' Exposure to Online Incivility]()
+
+  This project examines gender differences in politicians’ exposure to profanity-based online incivility on Twitter using regression analysis and exploratory diagnostics. Using tweets directed towards politicians in the United States and Canada, the analysis highlights how isolating specific forms of online harassment can reveal patterns that differ from broader measures of incivility.
 
 * [Spatial Analysis of Global Health Indicators](https://github.com/Comp-Soc-Science-Methods/HW1/tree/main):
   
