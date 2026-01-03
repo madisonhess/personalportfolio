@@ -46,5 +46,5 @@ Support
 
 ## Certificates
 
-* [Social and Behavioral Responsible Conduct of Research from CITI Program](https://github.com/madisonhess/personalportfolio/Certificates/citiCompletionCertificate_14388769_69151338-2.pdf)
+* [Social and Behavioral Responsible Conduct of Research from CITI Program](https://github.com/madisonhess/Portfolio/tree/main/Certificates/citiCompletionCertificate_14388769_69151338-2.pdf)
 * [Choose the Right Tool for Your Data: Python, R, or SQL]()
