@@ -32,9 +32,9 @@ This Portfolio is a compilation of my most relevant Data Science and Data Analys
   This project examined how maternal attachment, peer exposure, and boredom relate to chronic juvenile offending using data from the National Longitudinal Study of Adolescent to Adult Health (Add Health).
   An interactive R Flexdashboard was built in R with predicted probability plots and correlation heatmaps to communicate findings.
 
-* [Gender and Politicians' Exposure to Online Incivility]()
+* [Gender and Politicians' Exposure to Online Incivility](https://github.com/madisonhess/personalportfolio/tree/main/Projects/final_603.pdf)
 
-  This project examines gender differences in politicians’ exposure to profanity-based online incivility on Twitter using regression analysis and exploratory diagnostics. Using tweets directed towards politicians in the United States and Canada, the analysis highlights how isolating specific forms of online harassment can reveal patterns that differ from broader measures of incivility.
+  This project examines gender differences in politicians’ exposure to profanity-based online incivility on Twitter using regression analysis and exploratory diagnostics that were run in R. Using tweets directed towards politicians in the United States and Canada, the analysis highlights how isolating specific forms of online harassment can reveal patterns that differ from broader measures of incivility.
 
 * [Spatial Analysis of Global Health Indicators](https://github.com/Comp-Soc-Science-Methods/HW1/tree/main):
   
