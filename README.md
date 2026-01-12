@@ -10,7 +10,7 @@ This Portfolio is a compilation of my most relevant Data Science and Data Analys
 * DACSS Departmental Scholarship, University of Massachusetts Amherst — merit-based award in Data Analytics & Computational Social Science
 * President’s Scholarship, University of Portland — competitive, merit-based award granted to incoming students with top GPAs and advanced college-prep curricula
 * John Endowed Scholarship, University of Portland — merit-based
-* Muriel T. Detsch Scholarship, University of Portland - merit-based
+* Muriel T. Detsch Scholarship, University of Portland — merit-based
 * President’s Medal, Peninsula College - recognition for completing the Associate of Arts degree with a cumulative GPA above 3.85
 
 ## Activities & Societies
