@@ -6,9 +6,12 @@ This Portfolio is a compilation of my most relevant Data Science and Data Analys
 
 ## Achievements
 
-* 2025 Hyannisport Scholarship Recepient
-* President's Scholarship Recipient at the University of Portland
-* Awarded President's Medal at Penisula College for completing my Associate of Arts degree with a cumulative grade point average above 3.85
+* 2025 Hyannisport Scholarship Recipient — awarded by the Hyannisport Golf Club Scholarship Committee for service, dedication, and contribution to the club community
+* President’s Scholarship, University of Portland — competitive, merit-based award granted to incoming students with top GPAs and advanced college-prep curricula
+* DACSS Departmental Scholarship, University of Massachusetts Amherst — merit-based award in Data Analytics & Computational Social Science
+* John Endowed Scholarship, University of Portland — merit-based
+* Muriel T. Detsch Scholarship, University of Portland - merit-based
+* President’s Medal, Peninsula College - recognition for completing the Associate of Arts degree with a cumulative GPA above 3.85
 
 ## Activities & Societies
 
