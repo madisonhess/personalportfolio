@@ -54,8 +54,7 @@ This Portfolio is a compilation of my most relevant Data Science and Data Analys
 
 ## Skills
 
-* Technical & Analytical: R, Python, SPSS, Excel, Qualtrics, ArcMap, GeoDa, GitHub, MS Office Applica-
-tions | Data Cleaning, Statistical Analysis, Predictive Modeling, Data Visualization
+* Technical & Analytical: R, Python, SPSS, Excel, Qualtrics, ArcMap, SQL (Basic), MS Office Applications | Data Cleaning, Statistical Analysis, Predictive Modeling, Data Visualization
 * Research & Evaluation: Survey Design & Administration, Literature Reviews, Data Reporting, Research
 Synthesis
 * Operations & Project Coordination: Project Coordination, Scheduling, Logistics, Collaboration, Research
