@@ -25,7 +25,7 @@ This Portfolio is a compilation of my most relevant Data Science and Data Analys
 
 ## Projects
 
-* [Social Network Patterns in Adolescent Substance Use](https://github.com/madisonhess/personalportfolio/tree/main/Projects/FINAL_DACSS695N.pdf):
+* [Social Network Patterns in Adolescent Substance Use](https://github.com/madisonhess/personalportfolio/blob/main/Projects/FINAL_DACSS695N.pdf):
 
     This project analyzed adolescent substance use patterns using SNA to examine peer clustering, social connectedness, and gender differences.
     ERGMs and network centrality measures were applied in R to study how friendship networks relate to health-risk behaviors.
