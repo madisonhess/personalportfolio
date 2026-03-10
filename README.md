@@ -1,4 +1,4 @@
-# Portfolio - Madison Hess
+# Portfolio: Madison Hess
 This Portfolio is a compilation of my most relevant Data Science and Data Analysis projects I have completed. This portfolio also contains my achievements, skills, and certificates. It is updated on a regular basis.
 
 * #### Email: [maddiehess03@gmail.com](maddiehess03@gmail.com)
@@ -47,7 +47,8 @@ This Portfolio is a compilation of my most relevant Data Science and Data Analys
 
   Analytic Hierarchy Process (AHP) was used to rank three schools based on six criteria: learning, friends, school life, vocational training, college prep, and music classes. Pairwise comparison matrices were created         for both criteria and alternatives using data from Google Sheets. The Python library ahpy was used to calculate weights and consistency ratios.
 
-* [Undergraduate Thesis: Generational Differences in News Consumption Habits](https://github.com/madisonhess/personalportfolio/tree/main/Projects/thesis.pdf):
+* [Undergraduate Thesis: Generational Differences in News Consumption Habits](https://github.com/madisonhess/personalportfolio/tree/main/Projects/thesis.pdf)
+  :
   
   This study investigated generational differences in common routes to news, attitudes towards news, and levels of knowledge surrounding current events. 138 adults belonging to Gen Z, Millennial, Gen X, and Baby        Boomer age categories completed a survey which assessed importance of specific modes of media related to news consumption, importance of specific social media platforms in relation to news consumption, and            attitudes surrounding news-seeking. A twenty-question current events trivia also examined participants’ level of knowledge about current events. It was found that routes to news, especially social media platforms,    varied significantly across age groups. Next, dependence on Instagram, Twitter, and TikTok for news increased the younger the age group. Finally, Gen Z proved to be the most news avoidant age group and the least      knowledgeable about current events.
   
